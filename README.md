@@ -3,7 +3,8 @@ Hi There! 👋
 
 My name is Jana Metz @jannametz
 
-- 🔭 I’m currently working on Project  ***Microservices Banking App*** and ***Telegram Bot --> MaxiVitaminBot*** :heart:
+- 🔭 I’m currently working on Project  ***Telegram Bot --> MaxiVitaminBot*** :heart:
+- 🔭 I have finished Project ***Microservices Banking App*** 
 - 👋 Hi, @jannametz, student of IT-Systems Engineering am HPI :heart:
 - 👀 I’m interested in robotik and Software Development
 - 🌱 I’m currently learning the things which I need to explore more, Java, Robotik (NAO, Lego MINDSTORMS EV3, LEGO Education SPIKE) ...
